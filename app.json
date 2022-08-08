@@ -2,6 +2,7 @@
   "name": "PyroMan-Userbot",
   "description": "[PyroMan-Userbot] adalah userbot Telegram modular yang berjalan di Python3 dengan Library Pyrogram.",
   "stack": "heroku-22",
+  "repository": "https://github.com/ohskiller/sortkittamur",
   "env": {
     "API_ID": {
       "description": "Dapatkan API ID di web my.telegram.org Masukan yg APP ID Telegram",
